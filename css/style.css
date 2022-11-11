@@ -1,0 +1,388 @@
+.headera .wrapper
+{
+    width:80%;
+	margin:auto;
+}
+.headerb .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.logo .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.about .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.company .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.temp .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.portfolio .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.detail .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.website  .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.headera
+{
+	background-color:pink;
+	height:31px;
+}
+.headera .headera-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.headera .headera-fc .heada
+{
+	background-color:white;
+	height:30px;
+	width:20%;	
+}
+.headera .headera-fc .headb
+{
+	background-color:white;
+	height:30px;
+	width:20%;
+}
+
+.headera .headera-fc .headc
+{
+	background-color:white;
+	height:30px;
+	width:20%;
+}
+.headerb
+{
+	background-color:violet;
+	height:83px;
+}
+.headerb .headerb-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.headerb .headerb-fc .hboxa
+{
+	background-color:white;
+	height:39px;
+	width:20%;
+	margin-top:20px;	
+}
+.headerb .headerb-fc .hboxb
+{
+	background-color:white;
+	height:39px;
+	width:40%;
+	margin-top:20px;
+}
+.logo 
+{
+	background-color:rgb(107,87,68);
+	height:611px;
+}
+.logo .logo-fc
+{
+    display:flex;
+	flex-direction:column;
+	align-items:center;
+}
+.logo .logo-fc .logob
+{
+	background-color:white;
+	height:211px;
+	width:50%;
+	margin-top:150px;
+}
+.logo .logo-fc .logobox
+{
+	background-color:white;
+	height:43px;
+	width:20%;
+	margin-top:100px;
+}
+.about
+{
+	background-color:lightblue;
+	height:459px;
+}
+.about .about-fc  
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+}
+.about .about-fc .abboxa 
+{
+	background-color:red;
+	height:342px;
+	width:40%;
+	margin-top:60px;
+}
+.about .about-fc .abboxb
+{
+	background-color:red;
+	height:342px;
+	width:40%;
+	margin-top:60px;
+}
+.company 
+{
+	background-color:black;
+	height:107px;
+}
+.company .company-fc 
+{
+	display:flex;
+	justify-content:space-evenly;
+	flex-direction:row;
+}
+.company .company-fc .cba
+{
+	background-color:white;
+	height:68px;
+	width:15%;
+	margin-top:20px;
+}
+.company .company-fc .cbb
+{
+	background-color:white;
+	height:68px;
+	width:15%;
+	margin-top:20px
+}
+.company .company-fc .cbc
+{
+	background-color:white;
+	height:68px;
+	width:15%;
+	margin-top:20px
+}
+.company .company-fc .cbd
+{
+	background-color:white;
+	height:68px;
+	width:15%;
+	margin-top:20px
+}
+.company .company-fc .cbe
+{
+	background-color:white;
+	height:68px;
+	width:15%;
+	margin-top:20px
+}
+.temp 
+{
+    background-color: gray;
+	height:500px;
+}
+.temp .temp-fc
+
+{
+	display:flex;
+	justify-content:space-between;
+	flex-direction:row;
+	flex-wrap:wrap;
+}
+.temp .temp-fc .tempa 
+{
+	background-color:yellow;
+	height:100px;
+	width:40%;
+	margin-top:50px;
+}
+.temp .temp-fc .tempb
+{
+	background-color:yellow;
+	height:100px;
+	width:40%;
+    margin-top:50px;
+}
+.temp .temp-fc .tempc
+{
+	background-color:yellow;
+	height:100px;
+	width:40%;
+    margin-top:50px;
+}
+.temp .temp-fc .tempd
+{
+	background-color:yellow;
+	height:100px;
+	width:40%;
+    margin-top:50px;
+}
+.temp .temp-fc .tempd
+{
+	background-color:yellow;
+	height:100px;
+	width:40%;
+    margin-top:50px;
+}
+.temp .temp-fc .tempe
+{
+	background-color:yellow;
+	height:100px;
+	width:40%;
+    margin-top:50px;
+}
+.temp .temp-fc .tempf
+{
+	background-color:yellow;
+	height:100px;
+    width:40%;
+    margin-top:50px;
+}
+.portfolio
+{
+	background-color:beige;
+	height:1304px;
+}
+.portfolio .portfolio-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.portfolio .portfolio-fc .pora
+{
+	background-color:green;
+	height:423px;
+    width:33.3%;
+    margin-top:20px;
+}
+.portfolio .portfolio-fc .porb
+{
+	background-color:orange;
+	height:279px;
+    width:33.3%;
+    margin-top:20px;
+}
+.portfolio .portfolio-fc .porc
+{
+	background-color:red;
+	height:400px;
+    width:33.3%;
+    margin-top:20px;
+}
+.portfolio .portfolio-fc .pord
+
+{
+	background-color:blue;
+	height:400px;
+    width:33.3%;
+    margin-top:20px;
+}
+.portfolio .portfolio-fc .pore
+{
+	background-color:coral;
+	height:275px;
+    width:33.3%;
+    margin-top:20px;
+}
+.portfolio .portfolio-fc .porf
+{
+	background-color:lightgreen;
+	height:400px;
+    width:33.3%;
+    margin-top:20px;
+}
+.portfolio .portfolio-fc .porg
+
+{
+	background-color:salmon;
+	height:278px;
+    width:33.3%;
+    margin-top:20px;
+}
+.portfolio .portfolio-fc .porh
+{
+	background-color:pink;
+	height:278px;
+    width:33.3%;
+    margin-top:20px;
+}
+.portfolio .portfolio-fc .pori
+{
+	background-color:violet;
+	height:278px;
+    width:33.3%;
+    margin-top:20px;
+}
+.detail 
+{
+	background-color: rgb(81,93,106) ;
+	height:343px;
+}
+.detail .detail-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.detail .detail-fc .deta
+{
+    background-color:brown;
+	height:241px;
+    width:20%;
+    margin-top:50px;
+}
+.detail .detail-fc .detb
+{
+	background-color:brown;
+	height:241px;
+    width:20%;
+    margin-top:50px;
+}
+.detail .detail-fc .detc
+{
+	background-color:brown;
+	height:241px;
+    width:20%;
+    margin-top:50px;
+}
+.detail .detail-fc .detd
+{
+	background-color:brown;
+	height:241px;
+    width:20%;
+    margin-top:50px;
+}
+.website
+{
+	background-color :black;
+	height:60px;
+}
+.website .website-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+}
+.website .website-fc .copyright
+{
+	background-color:white;
+	width:20%;
+	height:35px;
+	margin-top:20px;
+}
